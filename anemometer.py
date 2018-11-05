@@ -6,7 +6,7 @@
 #  Overview:
 #  This project uses:
 #    TMP36 temperature sensor input on pin 1
-#    Reed switch input on pin 8
+#    Reed switch input on pin 5
 #    NPN transistor to control motor voltage output on pin 0
 #
 #  Each time reed switch is triggered, serial ouput will be a
@@ -33,7 +33,6 @@
 
 from microbit import *
 
-REED_SWITCH_PIN = pin8
 TMP36_PIN = pin1
 NPN_MOTOR_PIN = pin0
 
@@ -150,7 +149,7 @@ uart.write(EOL+"0,0,0,0,0,0,0,0,0,0,INIT"+EOL)
 
 
 while True:
-    if REED_SWITCH_PIN.read_digital():
+    if button_a.was_pressed():
         toggle_heart()
         current_running_time = running_time()
         # calculate time interval
