@@ -49,7 +49,7 @@ ANEMOMETER_CIRCUMFERENCE_MILES = ANEMOMETER_CIRCUMFERENCE_FEET / 5280
 # milliseconds per minute (1000 milliseconds * 60 seconds)
 MILLIS_PER_MINUTE = 60000
 
-TMD36_OFFSET = 0.54     # Offset for temperature application
+TMD36_OFFSET = 0.56     # Offset for temperature application
 TMD_RESISTOR = 100      # Ohm value of resistor in tmd circuit
 ADC_RESOLUTION = 1024   # analoge to digital scale
 MICROBIT_VOLTAGE = 3.3  # voltage for circuit calculations
