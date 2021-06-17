@@ -1,6 +1,7 @@
 # ------------__ Hacking STEM – hot_wheels.py – micro:bit __-----------
 # For use with the Analyzing Windspeed With Anemometers Lesson plan
 # available from Microsoft Education Workshop at
+# https://www.microsoft.com/en-us/education/education-workshop/anemometer.aspx
 # http://aka.ms/hackingSTEM
 #
 #  Overview:
@@ -15,9 +16,9 @@
 #  temperature Fahrenheit
 #  example: TODO
 #
-#  Input of a comma delimited line with fourth position beaaring a
+#  Input of a comma delimited line with fourth position bearing a
 #  positive integer will spin motor at given rpm
-#  example: TODO
+#  example: ",,,100"
 #
 #  This project uses a BBC micro:bit microcontroller, information at:
 #  https://microbit.org/
