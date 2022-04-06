@@ -2,7 +2,7 @@
 Arduino code for Microsoft Hacking STEM Measuring Windspeed Lesson Plan adapted for Arduino
 
 # Getting Started
-1. Download lesson assets at https://www.microsoft.com/en-us/education/education-workshop/anemometer.aspx
+1. Download lesson assets at https://education.microsoft.com/hackingStem/lesson/683f344b
 1. Build your anemomter!
 1. Use [Mu for Python](https://codewith.mu/) to flash the .py to your  [micro:bit](https://www.microbit.org/) microcontroller
 1. Verify data interactions in Excel
