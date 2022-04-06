@@ -1,7 +1,7 @@
 # ------------__ Hacking STEM – hot_wheels.py – micro:bit __-----------
 # For use with the Analyzing Windspeed With Anemometers Lesson plan
 # available from Microsoft Education Workshop at
-# https://www.microsoft.com/en-us/education/education-workshop/anemometer.aspx
+# https://education.microsoft.com/hackingStem/lesson/683f344b
 # http://aka.ms/hackingSTEM
 #
 #  Overview:
